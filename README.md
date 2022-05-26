@@ -1,11 +1,14 @@
-# Sample Snack app
+# A To-Do List using React Native
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+This is a To-Do list made by using react native and expo. Each component has its own respective css components attached to it. I recently made a different To-Do list using ReactJS. This is my first time working with React Native.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+Initial view:
+![image](https://user-images.githubusercontent.com/84177184/170529779-67c7c2ac-578b-4de0-898d-9920a10fc904.png)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Typing a new Task:
+![image](https://user-images.githubusercontent.com/84177184/170529857-a8c7c113-e6ac-4cd2-8385-7b133bf457cd.png)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+After tasks have been added:
+![image](https://user-images.githubusercontent.com/84177184/170529923-99fd87d8-acb8-4df9-85e4-849604a3feed.png)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+We can delete a task by clicking on the task box
